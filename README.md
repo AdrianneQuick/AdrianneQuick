@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... fun personal projects!
 - 📫 How to reach me ... adriannequick@gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... my favorite math is Trigonometry 
+- ⚡ Fun fact: ... we didn't start the fire, it was always burning
 
 <!---
 AdrianneQuick/AdrianneQuick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
