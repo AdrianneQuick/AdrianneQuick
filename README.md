@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdrianneQuick
-- 👀 I’m interested in ... circuit design and OOP
+- 👀 I’m interested in ... circuit design, embedded systems, and OOP
 - 🌱 I’m currently learning ... all things Computer Engineering related
 - 💞️ I’m looking to collaborate on ... fun personal projects!
 - 📫 How to reach me ... adriannequick@gmail.com
